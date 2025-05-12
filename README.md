@@ -5,6 +5,8 @@
 
 A vibrant pop aesthetic cybercore theme for the Zed editor, inspired by neon-lit cyberpunk vibes.
 ![image](https://github.com/user-attachments/assets/3548ee3d-cffb-4068-9651-65fa90c875c8)
+![image](https://github.com/user-attachments/assets/5d6f6261-e7dc-4ab0-b763-8754a14a5bd0)
+
 
 ## Colors
 - Deep Violet (#1a0d3b): Background
