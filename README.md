@@ -4,6 +4,7 @@
 # Neon Pulse Theme for Zed
 
 A vibrant pop aesthetic cybercore theme for the Zed editor, inspired by neon-lit cyberpunk vibes.
+![image](https://github.com/user-attachments/assets/3548ee3d-cffb-4068-9651-65fa90c875c8)
 
 ## Colors
 - Deep Violet (#1a0d3b): Background
